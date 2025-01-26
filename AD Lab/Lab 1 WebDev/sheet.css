@@ -1,0 +1,23 @@
+body { background-color: aqua;}
+h1 {color: red;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 200%;
+/* text-decoration:line-through;*/
+} 
+h3 {color: rgb(204, 179, 40)}
+#A12 {
+    color: rgb(54, 42, 142);
+
+}
+#A12:hover {
+    color: rgb(181, 17, 184);
+    
+}
+#IMG1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;;
+    border-radius: 10px;
+}
