@@ -1,1 +1,1 @@
-# machine-learning
+You will receive all the essential resources for Machine Learning (ML) and fine codes for Application Development Laboratory (AD-Lab) assignments.
